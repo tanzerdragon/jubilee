@@ -92,7 +92,7 @@ header h2 span {
 }
 
 #work .full-width {
-    padding: 115px 0;
+    padding: 40px;
 }
 
 #work img {
@@ -100,23 +100,24 @@ header h2 span {
 }
 
 #work h3 {
-    font-size: 24px;
-    line-height: 32px;
+    font-size: 24pt;
+    line-height: 32pt;
     width: 190px;
     margin: 0 auto;
 }
 
 #work p {
     font-family: 'Lora', serif;
-    font-size: 18px;
-    line-height: 30px;
-    padding: 0 50px;
+    font-size: 16pt;
+    line-height: 30pt;
+    padding: 0 30px;
 }
 
 /****** CONTACT ******/
 
 #contact {
     background-color: #ebebeb;
+    font-size: 24pt;
 }
 #contact .full-width {
     padding: 110px 0;
@@ -161,6 +162,14 @@ header h2 span {
      display: inline-block;
 }
 #contact ul img {
-    font-size: 32px;
+    font-size: 32pt;
     padding-right: 48px;
+}
+
+#contact .copyright {
+  width: 1200px;
+  margin: 40px 0 0 0;
+  font-size: 16pt;
+  text-align: center;
+  float: left;
 }
